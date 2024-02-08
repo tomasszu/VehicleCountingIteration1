@@ -6,7 +6,10 @@ in_vehicles = 0
 out_vehicles = 0
 unknown_vehicles = 0
 
+#============================================================================= <<<<<<<<<<<<<<<<<<<<<<<<<<
+#Choose camera recording 1. to 3.
 CAM = 3
+#============================================================================= <<<<<<<<<<<<<<<<<<<<<<<<<<
 
 def printout(direction_search_margin, matches, line_height, vehicles):
     found_direction_flag = 0

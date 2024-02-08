@@ -8,8 +8,8 @@ from datetime import datetime
 from feed_access import keys #File not uploaded to Github
 
 #============================================================================= <<<<<<<<<<<<<<<<<<<<<<<<<<
-#Choose camera feed 1. to 3.  (3. and 5. is in testing)
-CAM = 1
+#Choose camera feed 1. to 3.  (4. and 5. is in testing)
+CAM = 3
 #============================================================================= <<<<<<<<<<<<<<<<<<<<<<<<<<
 
 
