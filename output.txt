@@ -1,0 +1,40 @@
+
+************Update at 17:02:49*************
+Stats:{
+Total vehicles: 1
+Vehicles inbound: 1
+Vehicles outbound: 0
+Vehicles with unknown direction: 0
+}
+
+************Update at 17:02:57*************
+Stats:{
+Total vehicles: 2
+Vehicles inbound: 2
+Vehicles outbound: 0
+Vehicles with unknown direction: 0
+}
+
+************Update at 17:02:59*************
+Stats:{
+Total vehicles: 3
+Vehicles inbound: 2
+Vehicles outbound: 1
+Vehicles with unknown direction: 0
+}
+
+************Update at 17:03:00*************
+Stats:{
+Total vehicles: 4
+Vehicles inbound: 2
+Vehicles outbound: 2
+Vehicles with unknown direction: 0
+}
+
+************Update at 17:03:07*************
+Stats:{
+Total vehicles: 5
+Vehicles inbound: 3
+Vehicles outbound: 2
+Vehicles with unknown direction: 0
+}

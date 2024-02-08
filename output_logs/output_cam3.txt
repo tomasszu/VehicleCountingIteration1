@@ -1,0 +1,8 @@
+
+************Update at 15:37:48*************
+Stats:{
+Total vehicles: 1
+Vehicles inbound: 1
+Vehicles outbound: 0
+Vehicles with unknown direction: 0
+}
